@@ -1,0 +1,18 @@
+CARLY ELECTRIC — APP WEB INSTALÁVEL
+
+Conteúdo: calculadora de orçamento, catálogo de 21 serviços, dados do profissional, armazenamento local, visualização/impressão de orçamento e compartilhamento.
+
+COMO USAR AGORA:
+1. Extraia o arquivo ZIP para uma pasta.
+2. Abra index.html no navegador para testar. Algumas funções de instalação offline só funcionam quando publicado em HTTPS.
+
+COMO INSTALAR COMO APP NO ANDROID:
+1. Publique estes arquivos em um site HTTPS (por exemplo, um serviço de hospedagem estática).
+2. Abra o endereço no Chrome do Android.
+3. Menu ⋮ > “Instalar app” ou “Adicionar à tela inicial”.
+
+IMPORTANTE:
+- Este pacote é uma PWA (aplicativo web instalável), não um APK Android assinado.
+- Os orçamentos e configurações ficam guardados no armazenamento local do navegador. Use a opção de exportação para fazer cópias de segurança.
+- Os preços são valores de referência de mão de obra transcritos do catálogo enviado; confira e ajuste os valores antes de oferecer um orçamento.
+- O lucro é calculado como adicional sobre o custo total: custo × (1 + margem/100).
